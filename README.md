@@ -1,3 +1,3 @@
 # SlatHub UD Softaim
 
-Nigga softaim for Frontlines
+softaim for Frontlines
